@@ -8,3 +8,5 @@ europe
 euro
 
 economy
+
+dax
