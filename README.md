@@ -6,3 +6,5 @@ germany
 europe
 
 euro
+
+economy
