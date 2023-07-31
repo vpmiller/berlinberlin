@@ -4,3 +4,5 @@ berlin
 germany
 
 europe
+
+euro
